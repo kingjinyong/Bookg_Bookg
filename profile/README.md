@@ -52,7 +52,10 @@
 <summary>swagger</summary>
 <div markdown="1">
   
-<img width="1307" alt="form gptanswer API" src="우리 스웨거 사진 넣기">
+<img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/117b9d98-1c86-441f-8a35-c12a8f7f0347">
+<img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/07a2f477-59a5-45af-9ef8-08bcb80a66a4">
+<img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/510d893a-cd84-4c32-b612-30df6b77f99e">
+
   
 </div>
 <!-- </details> -->
