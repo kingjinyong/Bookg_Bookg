@@ -71,19 +71,10 @@
 ## 📈 Monitoring
 Grafana & Prometheus
 
-**Django** |**Node exporter** |
-:-----:|:-----:
+**Django** |
+:-----:
 <img src = "https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/1e92e8fb-9699-4b6d-9588-4c2e3c04d724" width=90%>|<img src = "우리꺼" width=100% >
 
-<table>
-  <tr>
-    <td colspan="2" align="center"><b>cAdvisor</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="우리꺼 사진" width="100%" height="100%"></td>
-    <td align="center"><img src="우리 사진" width="100%"></td>
-  </tr>
-</table>
 
 
 
