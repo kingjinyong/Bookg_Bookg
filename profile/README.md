@@ -43,13 +43,13 @@
 ## 💾 ERD
 
 <!--<img src="https://github.com/A-Interview/.github/assets/132477328/cd7cba29-4bbe-4194-8da0-4387eba5b13d">-->
-<img width="600" alt="AInterview ERD" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/aecb9cf1-10e8-4fb7-9edb-dcad113f3606">
+<img width="600" alt=" ERD" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/aecb9cf1-10e8-4fb7-9edb-dcad113f3606">
 
 
 ## 📚 API
 
 <!-- <details> -->
-<summary>swagger</summary>
+<summary>swagger 나눠서 할까? 한번에 할까?</summary>
 <div markdown="1">
   
 <img width="1307" alt="form gptanswer API" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/117b9d98-1c86-441f-8a35-c12a8f7f0347">
