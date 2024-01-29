@@ -21,7 +21,7 @@
 
 
 ## 💻 System Architechture
-<img alt="system architecture" src="우리 시스템 아키텍처">
+<img alt="system architecture" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/0a249440-a1cc-49cb-84c3-d24a3c2ad5a6">
 
 
 
