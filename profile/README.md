@@ -67,7 +67,7 @@ Grafana & Prometheus
 
 **Django** |**Node exporter** |
 :-----:|:-----:
-<img src = "우리꺼사진 넣기" width=90%>|<img src = "우리꺼" width=100% >
+<img src = "https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/4a4a6c3f-2263-4281-83f6-03268d3633f4" width=90%>|<img src = "우리꺼" width=100% >
 
 <table>
   <tr>
