@@ -43,7 +43,7 @@
 ## 💾 ERD
 
 <!--<img src="https://github.com/A-Interview/.github/assets/132477328/cd7cba29-4bbe-4194-8da0-4387eba5b13d">-->
-<img width="1145" alt="AInterview ERD" src="우리 ERD 채워주기">
+<img width="1145" alt="AInterview ERD" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/aecb9cf1-10e8-4fb7-9edb-dcad113f3606">
 
 
 ## 📚 API
