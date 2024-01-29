@@ -6,21 +6,26 @@
 <br>✔️ [미디움](링크넣기)
 
 ## 📹 Demo
-### 📝 메인페이지
-  <img width="1470" alt="search image" src="우리 메인 페이지 이미지 링크">
+### 📝 첫 화면
+  <img width="1470" alt="첫 화면" src="링크">
 
-### 📝 지원서 및 면접개수 선택페이지
-  <img width="1470" alt="search image" src="링크">
+### 📝 메인
+  <img width="1470" alt="메인" src="링크">
 
-### 📝 면접진행페이지
-  <img width="1470" alt="search image" src="링크">
+### 📝 초기 정보 입력
+  <img width="1470" alt="초기 정보 입력" src="링크">
 
-### 📝 면접결과페이지
-  <img width="1470" alt="search image" src="링크">
+### 📝 이야기 선택
+  <img width="1470" alt="이야기 선택" src="링크">
 
-### 📝 마이페이지
-  <img width="1470" alt="search image" src="링크">
+### 📝 제목 입력
+  <img width="1470" alt="제목 입력" src="링크">
+  
+### 📝 책 생성 된 메인
+  <img width="1470" alt="책 생성 된 메인" src="링크">
 
+### 📝 생성 된 책 조회
+  <img width="1470" alt="생성 된 책 조회" src="링크">
 
 
 ## 💻 System Architechture
