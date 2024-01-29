@@ -81,7 +81,7 @@ Grafana & Prometheus
 ## 🚀 How to Start - 어케 시작하는지 적기
 ### Clone Repository 
 ```
-$ git clone --recursive https://github.com/A-Interview/Docker.git
+$ git clone --recursive https://github.com/A-Interview/Docker.git <- 우리꺼로 해야함
 ```
 ### env setting in the Settings folder 
 * settings/.env
