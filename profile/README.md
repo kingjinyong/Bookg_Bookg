@@ -91,9 +91,8 @@ $ git clone --recursive https://github.com/A-Interview/Docker.git
 * settings/.env
 ```
 # backend env
-GPT_API_KEY=
+django_SECRET_KEY=
 
-DJANGO_SECRET_KEY=
 MYSQL_DATABASE=
 MYSQL_NAME=
 MYSQL_USER=
@@ -102,12 +101,19 @@ MYSQL_ROOT_PASSWORD=
 MYSQL_PORT=
 MYSQL_HOST=
 
+# GPT & DALL-E
+GPT_KEY=
+
 # AWS env
-MY_AWS_ACCESS_KEY =
-MY_AWS_SECRET_ACCESS_KEY =
-AWS_STORAGE_BUCKET_NAME = 
-AWS_S3_CUSTOM_DOMAIN =
+Access_key_ID =
+Secret_access_key =
+AWS_BUCKET_NAME = 
 FILE_URL=
+
+# Naver
+JIN_YONG_NAVER = 
+Naver_client_ID =
+Naver_client_SECRET = 
 
 ```
 ### Run Docker
