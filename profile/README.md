@@ -83,33 +83,35 @@ Grafana & Prometheus
 ```
 $ git clone --recursive https://github.com/A-Interview/Docker.git <- 우리꺼로 해야함
 ```
-### env setting in the Settings folder 
-* settings/.env
+### secrets.json setting in the backend folder 
+* backend/secrets.json
 ```
 # backend env
-django_SECRET_KEY=
-
-MYSQL_DATABASE=
-MYSQL_NAME=
-MYSQL_USER=
-MYSQL_PASSWORD=
-MYSQL_ROOT_PASSWORD=
-MYSQL_PORT=
-MYSQL_HOST=
-
-# GPT & DALL-E
-GPT_KEY=
+"django_SECRET_KEY" :
 
 # AWS env
-Access_key_ID =
-Secret_access_key =
-AWS_BUCKET_NAME = 
-FILE_URL=
+"Access_key_ID":
+"Secret_access_key":
+"AWS_BUCKET_NAME":
+"FILE_URL":
+
+# GPT & DALL-E
+"GPT_MODEL":
+"DALL_E_MODEL":
+"GPT_KEY":
 
 # Naver
-JIN_YONG_NAVER = 
-Naver_client_ID =
-Naver_client_SECRET = 
+"YOUR_NAVER_USER_EMAIL":
+"YOUR_NAVER_PWD":
+"NAVER_CLIENT_ID":
+"NAVER_CLIENT_SECRET":
+
+#DB
+"MYSQL_NAME":
+"MYSQL_USER":
+"MYSQL_PASSWORD":
+"MYSQL_HOST":
+"MYSQL_PORT":
 
 ```
 ### Run Docker
