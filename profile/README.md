@@ -87,11 +87,11 @@ $ git clone --recursive https://github.com/A-Interview/Docker.git <- 우리꺼�
 * backend/secrets.json
 ```
 # backend env
-"django_SECRET_KEY" :
+"DJANGO_SECRET_KEY" :
 
 # AWS env
-"Access_key_ID":
-"Secret_access_key":
+"ACCESS_KEY_ID":
+"SECRET_ACCESS_KEY":
 "AWS_BUCKET_NAME":
 "FILE_URL":
 
