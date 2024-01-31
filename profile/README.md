@@ -34,7 +34,7 @@
 
 
 ## 💡 Tech stack ### 우리가 썼던거로 다시 채우자 거의 비슷해 보이긴 함
-✔️ [The reason for selecting these tech stacks](https://swift-peripheral-303.notion.site/47dc0db276154bee9a9db4fbd48a678b?pvs=4)
+✔️ [The reason for selecting these tech stacks]()
 <br>
 <div align =center>
 
