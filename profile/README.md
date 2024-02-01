@@ -29,7 +29,7 @@
 
 
 ## 💻 System Architechture
-<img alt="system architecture" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/ce7432aa-7be3-4e93-af3e-e4c54dafdfda">
+<img alt="system architecture" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/f82727dd-512d-447c-abd4-add7b4cc4956">
 
 
 
