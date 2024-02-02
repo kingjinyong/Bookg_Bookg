@@ -2,8 +2,8 @@
 
 
 ## 📒 Medium
-✔️ [소개](링크넣기)
-<br>✔️ [미디움](https://medium.com/@wlsdydwhswkf/bookg-bookg-ai-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%84%EC%9D%B4-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%8F%99%ED%99%94-%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%B9%84%EC%8A%A4-eb326f9b7399)
+🤚 [Introduction](링크넣기)
+<br>✍️[Medium](https://medium.com/@wlsdydwhswkf/bookg-bookg-ai-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%84%EC%9D%B4-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%8F%99%ED%99%94-%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%B9%84%EC%8A%A4-eb326f9b7399)
 
 ## 📹 Demo
 ### 📝 첫 화면
@@ -33,22 +33,22 @@
 
 
 
-## 💡 Tech stack ### 우리가 썼던거로 다시 채우자 거의 비슷해 보이긴 함
+## 🛠️ Tech stack
 ✔️ [The reason for selecting these tech stacks]()
 <br>
 <div align =center>
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Fronted** | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-#3578E5?style=for-the-badge&logo=ESLint&logoColor=white"/>
+**Fronted** | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white">
 **Backend** | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-**DevOps** | <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Daphne-57BCAD?style=for-the-badge&logo=Daphne&logoColor=black"><img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black">
-**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black"> <img src="https://img.shields.io/badge/alertmanager-E74536?style=for-the-badge&logo=alertmanager&logoColor=black"> <img src = "https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black"> ![node-exporter](https://img.shields.io/badge/node_exporter-37D100?style=for-the-badge&logoColor=black) 
-**etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+**DevOps** | <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black"> <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black">
+**etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </div>
 
 
-## 💾 ERD
+## 🗂️ ERD
 
 <!--<img src="https://github.com/A-Interview/.github/assets/132477328/cd7cba29-4bbe-4194-8da0-4387eba5b13d">-->
 <img width="1307" alt=" ERD" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/aecb9cf1-10e8-4fb7-9edb-dcad113f3606">
@@ -78,7 +78,7 @@ Grafana & Prometheus
 
 
 
-## 🚀 How to Start - 어케 시작하는지 적기
+## 🏃‍♀️ How to Start
 ### Clone Repository 
 ```
 $ git clone --recursive https://github.com/A-Interview/Docker.git <- 우리꺼로 해야함
