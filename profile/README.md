@@ -2,8 +2,7 @@
 
 
 ## 📒 Medium
-🤚 [Introduction](링크넣기)
-<br>✍️ [Medium](https://medium.com/@wlsdydwhswkf/bookg-bookg-ai-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%84%EC%9D%B4-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%8F%99%ED%99%94-%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%B9%84%EC%8A%A4-eb326f9b7399)
+<br>✍️ [Bookg-Bookg](https://medium.com/@wlsdydwhswkf/bookg-bookg-ai-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%84%EC%9D%B4-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%8F%99%ED%99%94-%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%B9%84%EC%8A%A4-eb326f9b7399)
 
 ## 📹 Demo
 ### 📝 첫 화면
@@ -123,9 +122,9 @@ $docker compose up --build
 $npm run dev
 ```
 
-## 📂 Directory Structure - 우리 파일 트리로 넣기
+## 📂 Directory Structure
 <details>
-<summary>Click</summary>
+<summary>Open</summary>
 <pre>
 <code>
 📦backend
