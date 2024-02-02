@@ -128,97 +128,96 @@ $npm run dev
 <summary>Click</summary>
 <pre>
 <code>
-  📦backend
-   ┣ 📂ainterview
-   ┃ ┣ 📂__pycache__
-   ┃ ┣ 📜__init__.py
-   ┃ ┣ 📜asgi.py
-   ┃ ┣ 📜celery.py
-   ┃ ┣ 📜settings.py
-   ┃ ┣ 📜urls.py
-   ┃ ┗ 📜wsgi.py
-   ┣ 📂forms
-   ┃ ┣ 📂__pycache__
-   ┃ ┣ 📂migrations
-   ┃ ┣ 📜__init__.py
-   ┃ ┣ 📜admin.py
-   ┃ ┣ 📜apps.py
-   ┃ ┣ 📜models.py
-   ┃ ┣ 📜serializers.py
-   ┃ ┣ 📜tests.py
-   ┃ ┣ 📜urls.py
-   ┃ ┗ 📜views.py
-   ┣ 📂speak_to_chat
-   ┃ ┣ 📂__pycache__
-   ┃ ┣ 📂migrations
-   ┃ ┣ 📜__init__.py
-   ┃ ┣ 📜apps.py
-   ┃ ┣ 📜interview_consumer.py
-   ┃ ┣ 📜models.py
-   ┃ ┣ 📜routing.py
-   ┃ ┣ 📜serializers.py
-   ┃ ┣ 📜tasks.py
-   ┃ ┣ 📜urls.py
-   ┃ ┗ 📜views.py
-   ┣ 📂users
-   ┃ ┣ 📂__pycache__
-   ┃ ┣ 📂migrations
-   ┃ ┣ 📜__init__.py
-   ┃ ┣ 📜admin.py
-   ┃ ┣ 📜apps.py
-   ┃ ┣ 📜models.py
-   ┃ ┣ 📜serializers.py
-   ┃ ┣ 📜tests.py
-   ┃ ┣ 📜urls.py
-   ┃ ┗ 📜views.py
-   ┣ 📜.git
-   ┣ 📜.gitignore
-   ┣ 📜Pipfile
-   ┣ 📜Pipfile.lock
-   ┣ 📜dockerfile
-   ┣ 📜manage.py
-   ┣ 📜requirements.txt
-   ┗ 📜storage.py
-  📦frontend
-   ┣ 📂public
-   ┣ 📂src
-   ┃ ┣ 📂assets
-   ┃ ┣ 📂components
-   ┃ ┣ 📂lottie
-   ┃ ┣ 📂pages
-   ┃ ┃ ┣ 📜ApplyFormPickerPage.tsx
-   ┃ ┃ ┣ 📜InterviewProgressPage.tsx
-   ┃ ┃ ┣ 📜InterviewResultPage.tsx
-   ┃ ┃ ┣ 📜LoginPage.tsx
-   ┃ ┃ ┣ 📜MainPage.tsx
-   ┃ ┃ ┣ 📜MyPage.tsx
-   ┃ ┃ ┣ 📜SignupPage.tsx
-   ┃ ┃ ┣ 📜StandBy.tsx
-   ┃ ┃ ┗ 📜WatingPage.tsx
-   ┃ ┣ 📂state
-   ┃ ┃ ┗ 📜Atom.ts
-   ┃ ┣ 📂style
-   ┃ ┃ ┗ 📜GlobalStyle.tsx
-   ┃ ┣ 📂types
-   ┃ ┃ ┗ 📜index.d.ts
-   ┃ ┣ 📜App.tsx
-   ┃ ┣ 📜index.css
-   ┃ ┗ 📜index.tsx
-   ┣ 📜.eslintrc.json
-   ┣ 📜.git
-   ┣ 📜.gitignore
-   ┣ 📜Dockerfile
-   ┣ 📜Dockerfile.prod
-   ┣ 📜README.md
-   ┣ 📜nginx.conf
-   ┣ 📜package-lock.json
-   ┣ 📜package.json
-   ┗ 📜tsconfig.json
-  📦 settings
-   ┗ 📜.env
+📦backend
+ ┣ 📂backend
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜asgi.py
+ ┃ ┣ 📜celery.py
+ ┃ ┣ 📜settings.py
+ ┃ ┣ 📜urls.py
+ ┃ ┗ 📜wsgi.py
+ ┣ 📂book
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜admin.py
+ ┃ ┣ 📜apps.py
+ ┃ ┣ 📜models.py
+ ┃ ┣ 📜routing.py
+ ┃ ┣ 📜serializers.py
+ ┃ ┣ 📜tasks.py
+ ┃ ┣ 📜tests.py
+ ┃ ┣ 📜urls.py
+ ┃ ┣ 📜views.py
+ ┃ ┗ 📜write_page.py
+ ┣ 📂page
+ ┃ ┣ 📂migrations
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜admin.py
+ ┃ ┣ 📜apps.py
+ ┃ ┣ 📜models.py
+ ┃ ┣ 📜tests.py
+ ┃ ┗ 📜views.py
+ ┣ 📂user
+ ┃ ┣ 📂migrations
+ ┃ ┣ 📜__init__.py
+ ┃ ┣ 📜admin.py
+ ┃ ┣ 📜apps.py
+ ┃ ┣ 📜models.py
+ ┃ ┣ 📜serializers.py
+ ┃ ┣ 📜tests.py
+ ┃ ┣ 📜urls.py
+ ┃ ┗ 📜views.py
+ ┣ 📂grafana
+ ┣ 📂myenv
+ ┣ 📂prometheus
+ ┣ 📜Dockerfile
+ ┣ 📜celerybeat-schedule.db
+ ┣ 📜db.sqlite3
+ ┣ 📜docker-compose.yml
+ ┣ 📜manage.py
+ ┗ 📜requirements.txt
+📦frontend
+ ┃ ┣ 📂ws
+ ┃ ┃ ┣ 📂lib
+ ┃ ┃ ┃ ┣ 📜websocket-server.js
+ ┃ ┃ ┃ ┗ 📜websocket.js
+ ┃ ┣ 📂assets
+ ┃ ┣ 📂components
+ ┃ ┃ ┣ 📜BackgroundTemplate.tsx
+ ┃ ┃ ┣ 📜ContentPage.tsx
+ ┃ ┃ ┣ 📜CreateTitleModal.tsx
+ ┃ ┃ ┣ 📜FrontCover.tsx
+ ┃ ┃ ┣ 📜LogInModal.tsx
+ ┃ ┃ ┣ 📜NavBar.tsx
+ ┃ ┃ ┗ 📜ShareModal.tsx
+ ┃ ┣ 📂pages
+ ┃ ┃ ┣ 📜AboutUsPage.tsx
+ ┃ ┃ ┣ 📜BackCoverPage.tsx
+ ┃ ┃ ┣ 📜BookGuidePage.tsx
+ ┃ ┃ ┣ 📜CreateBookPage.tsx
+ ┃ ┃ ┣ 📜CreateInfoPage.tsx
+ ┃ ┃ ┣ 📜CreationFinishPage.tsx
+ ┃ ┃ ┣ 📜CreationStartPage.tsx
+ ┃ ┃ ┣ 📜FrontCoverPage.tsx
+ ┃ ┃ ┣ 📜HomePage.tsx
+ ┃ ┃ ┣ 📜LibraryPage.tsx
+ ┃ ┃ ┣ 📜LoadingPage.tsx
+ ┃ ┃ ┣ 📜MainPage.tsx
+ ┃ ┃ ┣ 📜ReadBookPage.tsx
+ ┃ ┃ ┣ 📜ServicePage.tsx
+ ┃ ┃ ┣ 📜SignUp.tsx
+ ┃ ┃ ┣ 📜SliderPage.tsx
+ ┃ ┃ ┗ 📜StoryChoiceModal.tsx
+ ┃ ┣ 📂states
+ ┃ ┃ ┗ 📜atom.ts
+ ┃ ┣ 📂utils
+ ┗ ┃ ┗ 📜Routes.tsx
+   ┗ 📂websocket
+     ┗ 📜WebSocketProvider.tsx
 </code>
 </pre>
 </details>
+
+
 
 ## 👨‍👩‍👧‍👧 Member
 
