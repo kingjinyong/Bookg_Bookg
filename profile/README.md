@@ -6,27 +6,33 @@
 ✍️ [Bookg-Bookg](https://medium.com/@wlsdydwhswkf/bookg-bookg-ai-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%84%EC%9D%B4-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%8F%99%ED%99%94-%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%B9%84%EC%8A%A4-eb326f9b7399)
 
 ## 📹 Demo
-### 📝 첫 화면
-  <img width="1470" alt="첫 화면" src="링크">
 
 ### 📝 메인
-  <img width="1470" alt="메인" src="링크">
+  <img width="1470" alt="메인" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/68764d6a-c068-4a92-a413-84073eaa086a">
 
 ### 📝 초기 정보 입력
-  <img width="1470" alt="초기 정보 입력" src="링크">
+  <img width="1470" alt="초기 정보 입력" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/e0f9ac45-f92e-4302-a7bb-aec3251f7312">
 
 ### 📝 이야기 선택
-  <img width="1470" alt="이야기 선택" src="링크">
+  <img width="1470" alt="이야기 선택" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/01e9bfd1-095c-42d0-beb3-5ef8c7f9c499">
 
 ### 📝 제목 입력
-  <img width="1470" alt="제목 입력" src="링크">
+  <img width="1470" alt="제목 입력" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/6e5027a1-2f2f-4c9f-9393-f13b8253fc50">
   
 ### 📝 책 생성 된 메인
-  <img width="1470" alt="책 생성 된 메인" src="링크">
+  <img width="1470" alt="책 생성 된 메인" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/ea5358f6-7798-4e52-8e50-08f9b88d0a9a">
 
 ### 📝 생성 된 책 조회
-  <img width="1470" alt="생성 된 책 조회" src="링크">
+  <img width="1470" alt="생성 된 책 조회" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/7f6fe18b-0c90-4ad7-98c1-a2451e5ac6b0">
+  <img width="1470" alt="생성 된 책 조회 2" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/0fcaf4ab-1891-4889-9a4b-f5204e17696c">
 
+  
+### 📝 한/영 전환
+  <img width="1470" alt="한/영 전환" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/4701413c-f190-4bfb-b665-6e86e4a9ba33">
+
+### 📝 이메일 공유
+  <img width="1470" alt="이메일 공유" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/443996ac-490b-4180-abd2-47662acd8a65">
+  <img width="1470" alt="이메일 공유 2" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/f81dbd03-5a18-4682-bdaa-d958135918cf">
 
 ## 💻 System Architechture
 <img alt="system architecture" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/f82727dd-512d-447c-abd4-add7b4cc4956">
