@@ -1,4 +1,4 @@
-# 여기에 메인사진 넣기
+# 메인화면
 <img width="1494" alt="image" src="https://github.com/2023-Winter-Bootcamp-Team-I/.github/assets/117449640/b791adc7-d3b9-4454-9824-14266380d242">
 
 
