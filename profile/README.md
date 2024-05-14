@@ -87,7 +87,7 @@ Grafana & Prometheus
 ## 🏃‍♀️ How to Start
 ### Clone Repository 
 ```
-$ git clone --recursive https://github.com/A-Interview/Docker.git <- 우리꺼로 해야함
+$ git clone --recursive https://github.com/kingjinyong/Bookg_Bookg.git <- 우리꺼로 해야함
 ```
 ### secrets.json setting in the backend folder 
 * backend/secrets.json
